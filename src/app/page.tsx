@@ -119,7 +119,7 @@ export default function MRRCalculator() {
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
             Track your Monthly Recurring Revenue, forecast growth, and know when
-            you'll hit your targets.
+            you&apos;ll hit your targets.
           </p>
         </div>
 
